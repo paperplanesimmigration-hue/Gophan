@@ -1,0 +1,7 @@
+=== RAJ'S RANSOM RUN - VERSION 1.0.0 RELEASE NOTES ===
+* Stage 1: The Old Delhi Bazaar Heist featuring tricky pickpockets, rooftop chases, and smashable matkas.
+* Stage 2: The Wealthy Dragon Boss Courtyard & Simran's Royal Golden Cage (Collect 50,000 ₹ or defeat the dragon!).
+* Traditional Indian Street Sport Mini-Game: Gilli-Danda Street Strike (गिल्ली डंडा) with rooftop trajectory multipliers.
+* Gulab Chacha's Royal Emporium: 4 authentic outfits (Maharaja Sherwani, Dacoit, Diwali Brocade) and speed/jump powerups.
+* Full Android Touch D-Pad & Action buttons + Responsive Desktop Arcade controls.
+* Complete local persistent save system & JSON export.

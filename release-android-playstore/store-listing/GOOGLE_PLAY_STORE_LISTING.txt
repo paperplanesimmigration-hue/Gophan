@@ -1,0 +1,36 @@
+================================================================================
+GOOGLE PLAY STORE LISTING METADATA: RAJ'S RANSOM RUN
+================================================================================
+
+1. APP TITLE (Max 30 characters):
+Raj's Ransom Run: 2D Platformer
+
+2. SHORT DESCRIPTION (Max 80 characters):
+Help Raj leap across Jaipur & Old Delhi to rescue Simran in an epic Indian run!
+
+3. FULL DESCRIPTION (Up to 4000 characters):
+🇮🇳 Experience the vibrant energy of India in "Raj's Ransom Run", an authentic 2D side-scrolling platformer video game set in the royal bazaars and courtyards of Jaipur and Old Delhi!
+
+👑 THE STORY & QUEST:
+Play as Raj, a fearless youth wearing a saffron silk kurta and fluttering kamarbandh waist sash. Simran, Raj's beloved in bridal lehenga, has been locked inside a royal golden birdcage by the Wealthy Dragon! The greedy dragon demands a royal ransom of 50,000 Rupees (₹) to buy Simran's freedom.
+
+Can you leap across sandstone arches, dodge crafty pickpockets, smash clay matkas, and conquer traditional street games to gather the fortune and liberate Simran?
+
+🌟 GAMEPLAY FEATURES:
+• BAZAAR HEIST RUN: Sprint across tiered sandstone rooftops and carved jali balconies. Watch out for tricky turbaned pickpockets fleeing with stolen coin pouches, and shady scammer merchants!
+• SMASHABLE MATKAS: Whack authentic terracotta clay pots with your bamboo lathi staff to release hidden silver and gold rupees.
+• TRADITIONAL STREET SPORT MINI-GAME - GILLI-DANDA: Land in the street sport zone to strike the wooden Gilli with the Danda stick for massive rooftop distance multipliers and bonus currency!
+• GULAB CHACHA'S ROYAL BAZAAR EMPORIUM: Spend your collected rupees on 4 authentic cultural outfits (Royal Maharaja Sherwani, Midnight Dacoit Rebel, Diwali Brocade, Bazaar Kurta) and power-ups like Kolhapuri Chappals of Haste, Vayu 2x Jump Sash, and Suraksha Anti-Theft Talisman.
+• EPIC FINAL BOSS BATTLE: Face off against the Wealthy Dragon in the palace courtyard terrace at sunset or midnight under glowing Diwali sky lanterns.
+• DUAL ATMOSPHERIC THEMES: Play in the vibrant Saffron Sunset or the starry Midnight Dark Theme with illuminated diya oil lamps and glowing full moon.
+• COMFORTABLE MOBILE CONTROLS: Specially tuned virtual brass D-pad and responsive A/B action buttons with haptic feedback.
+• 100% OFFLINE & PROGRESS SAVED: Automatically saves your rupees, unlocked outfits, and high scores.
+
+🎮 CONTROLS:
+• D-PAD (Left/Right): Run across rooftops
+• BUTTON A: Jump / Vayu Double Jump
+• BUTTON B: Lathi Staff Strike / Smash Matkas / Recover Stolen Funds
+• KEY E / TOUCH: Enter Gilli-Danda Mini-Game or Gulab Chacha's Shop
+
+Download now and begin your royal ransom adventure across the historic rooftops of India!
+================================================================================

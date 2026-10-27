@@ -1,0 +1,52 @@
+{
+  "packageId": "com.raj.ransomrun",
+  "host": "ais-pre-nncvqcprezbrvtzh75nlbk-504272527330.us-east1.run.app",
+  "name": "Raj's Ransom Run: Indian Cultural 2D Platformer",
+  "launcherName": "Raj's Run",
+  "themeColor": "#0C0A09",
+  "navigationColor": "#0C0A09",
+  "navigationColorDark": "#0C0A09",
+  "navigationDividerColor": "#0C0A09",
+  "navigationDividerColorDark": "#0C0A09",
+  "backgroundColor": "#0C0A09",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "/pwa-512x512.png",
+  "maskableIconUrl": "/pwa-maskable-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./release-keystore.jks",
+    "alias": "raj_release_key"
+  },
+  "appVersionCode": 1,
+  "appVersionName": "1.0.0",
+  "orientation": "landscape",
+  "shortcuts": [
+    {
+      "name": "Old Delhi Bazaar Heist",
+      "short_name": "Bazaar",
+      "url": "/?level=bazaar",
+      "icon": "/pwa-192x192.png"
+    },
+    {
+      "name": "Dragon Boss Courtyard",
+      "short_name": "Boss",
+      "url": "/?level=boss",
+      "icon": "/pwa-192x192.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": false
+    },
+    "playBilling": {
+      "enabled": false
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  }
+}

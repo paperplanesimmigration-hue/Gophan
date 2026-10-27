@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#b45309" />
+      <stop offset="50%" stop-color="#78350f" />
+      <stop offset="100%" stop-color="#1c1917" />
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="40%" stop-color="#facc15" />
+      <stop offset="70%" stop-color="#eab308" />
+      <stop offset="100%" stop-color="#b45309" />
+    </linearGradient>
+    <linearGradient id="turbanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ea580c" />
+      <stop offset="50%" stop-color="#dc2626" />
+      <stop offset="100%" stop-color="#991b1b" />
+    </linearGradient>
+    <filter id="dropShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.7" />
+    </filter>
+  </defs>
+
+  <!-- Background Base (Safe Zone Circle for Android Launcher) -->
+  <rect width="512" height="512" rx="110" fill="url(#bgGlow)" />
+  <rect width="504" height="504" x="4" y="4" rx="106" fill="none" stroke="url(#goldGrad)" stroke-width="8" opacity="0.8" />
+
+  <!-- Carved Jali Architectural Arch Frame -->
+  <path d="M 96 440 L 96 230 C 96 140, 160 80, 256 50 C 352 80, 416 140, 416 230 L 416 440 Z" fill="#292524" opacity="0.6" stroke="url(#goldGrad)" stroke-width="4" />
+
+  <!-- Lotus Finial Top Spire -->
+  <path d="M 256 24 L 268 46 L 244 46 Z" fill="url(#goldGrad)" />
+  <circle cx="256" cy="20" r="6" fill="#fef08a" />
+
+  <!-- Central Crest: Golden Rupee Coin & Hero Motif -->
+  <g filter="url(#dropShadow)">
+    <!-- Giant Glowing Gold Rupee Medallion -->
+    <circle cx="256" cy="270" r="140" fill="url(#goldGrad)" stroke="#78350f" stroke-width="6" />
+    <circle cx="256" cy="270" r="126" fill="none" stroke="#fef08a" stroke-width="3" stroke-dasharray="10 6" />
+
+    <!-- Rupee Currency Symbol Inscribed -->
+    <text x="256" y="325" font-family="'Yatra One', 'Cinzel', serif" font-weight="900" font-size="160" fill="#451a03" text-anchor="middle">₹</text>
+
+    <!-- Raj's Royal Turban (Pagri) Crest on top of coin -->
+    <ellipse cx="256" cy="140" rx="90" ry="52" fill="url(#turbanGrad)" />
+    <!-- Pleats -->
+    <path d="M 176 146 Q 256 120 336 146" fill="none" stroke="url(#goldGrad)" stroke-width="6" />
+    <path d="M 186 162 Q 256 138 326 162" fill="none" stroke="url(#goldGrad)" stroke-width="5" />
+
+    <!-- Sarpech Jewel Brooch with Ruby Core -->
+    <circle cx="256" cy="120" r="14" fill="#dc2626" stroke="url(#goldGrad)" stroke-width="3" />
+    <circle cx="256" cy="120" r="6" fill="#fef08a" />
+
+    <!-- Peacock Feather Plume -->
+    <path d="M 256 106 Q 274 70 286 52 Q 270 76 256 106" fill="#059669" />
+    <circle cx="282" cy="56" r="6" fill="#0284c7" />
+
+    <!-- Bamboo Lathi Staff Crossing -->
+    <path d="M 110 390 L 402 180" stroke="#ca8a04" stroke-width="12" stroke-linecap="round" />
+    <path d="M 110 390 L 402 180" stroke="#fef08a" stroke-width="4" stroke-dasharray="24 16" stroke-linecap="round" />
+  </g>
+
+  <!-- Bottom Title Banner: RAJ'S RUN -->
+  <g filter="url(#dropShadow)">
+    <rect x="76" y="400" width="360" height="64" rx="18" fill="#451a03" stroke="url(#goldGrad)" stroke-width="4" />
+    <text x="256" y="444" font-family="'Yatra One', sans-serif" font-weight="900" font-size="34" fill="#fef08a" text-anchor="middle" letter-spacing="2">RAJ'S RANSOM</text>
+  </g>
+</svg>

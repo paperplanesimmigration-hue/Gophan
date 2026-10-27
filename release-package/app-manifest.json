@@ -1,0 +1,10 @@
+{
+  "name": "Raj's Ransom Run: Indian Cultural 2D Platformer",
+  "short_name": "Raj's Ransom",
+  "version": "1.0.0",
+  "theme_color": "#b45309",
+  "background_color": "#451a03",
+  "display": "standalone",
+  "orientation": "landscape",
+  "description": "Help Raj leap across Old Delhi and Jaipur rooftops to rescue Simran from the Wealthy Dragon! Featuring authentic Gilli-Danda street mini-games, Gulab Chacha's bazaar emporium, and scammer avoidance platforming."
+}

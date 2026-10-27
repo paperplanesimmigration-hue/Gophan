@@ -1,0 +1,6 @@
+{
+  "name": "Raj's Ransom Run: Indian Cultural 2D Platformer",
+  "description": "Vibrant Indian cultural 2D platformer video game with bazaar heist, Gilli-Danda mini-game, Chacha's shop, boss dragon battle, and save/publishing suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
